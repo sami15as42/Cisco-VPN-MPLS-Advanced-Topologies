@@ -131,7 +131,7 @@
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">20.0.2.52/30</text></svg>",
                 "x": -153,
-                "y": -2,
+                "y": 8,
                 "z": 2
             },
             {
@@ -997,7 +997,7 @@
                 "template_id": "4f112c52-0e98-4771-9af9-76d0d5641878",
                 "width": 66,
                 "x": 292,
-                "y": -139,
+                "y": -137,
                 "z": 1
             },
             {
@@ -1618,7 +1618,7 @@
                 "template_id": "4f112c52-0e98-4771-9af9-76d0d5641878",
                 "width": 66,
                 "x": -482,
-                "y": -32,
+                "y": -33,
                 "z": 1
             },
             {
@@ -1636,7 +1636,7 @@
                     "x": 17,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "CE6",
                 "node_id": "2a07c617-0299-4f38-9ba7-c1d7cc91559c",
                 "node_type": "dynamips",
